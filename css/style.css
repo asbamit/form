@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1, h2, h3, h4, h5, h5, h6, ul, p{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #697C37;
+}
+.form{
+    background-color: #FFFFFF;
+    padding: 50px;
+}
+.btn_color{
+    background-color: #b2dd46;
+}
+.btn_color:hover{
+    background-color: #688521;
+}
+.form{
+    box-shadow: -22px 20px 1px #3f5015;
+}
+.form input{
+    background-color: transparent; 
+}
+.row p{
+    text-align: justify;
+}
